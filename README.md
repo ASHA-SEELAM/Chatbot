@@ -44,7 +44,7 @@ Feature	Description
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/document-assistant.git
+git clone https://github.com/ASHA-SEELAM/Chatbot/blob/main/Main/App.py
 cd document-assistant
 pip install -r requirements.txt
 2. Install and Run Ollama
